@@ -1,0 +1,7 @@
+gradio
+crewai
+python-docx
+PyMuPDF
+crewai-tools
+nodejs
+pydantic>=1.10.0
